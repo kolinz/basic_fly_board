@@ -1,6 +1,6 @@
-# 🛸 basic_fly_board — Minetest用フライボードMOD
+# 🛸 basic_fly_board — Luanti/Minetest用フライボードMOD
 
-このMODは、Minetest/Luanti環境で動作する「フライボード（空飛ぶ板）」を追加します。教育ワークショップや創造的な遊びの中で、直感的な移動・高度調整・GUI操作を体験できます。
+このMODは、Luanti/Minetest環境で動作する「フライボード（空飛ぶ板）」を追加します。教育ワークショップや創造的な遊びの中で、直感的な移動・高度調整・GUI操作を体験できます。
 
 ## 🎯 特徴
 
